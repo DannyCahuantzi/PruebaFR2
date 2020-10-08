@@ -15,7 +15,8 @@ public class Prueba08 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("nueva prueba");
+        System.out.println("nueva prueba"); 
+        System.out.println("nueva prueba 2.0");
     }
     
 }

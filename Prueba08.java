@@ -17,6 +17,7 @@ public class Prueba08 {
     public static void main(String[] args) {
         System.out.println("nueva prueba"); 
         System.out.println("nueva prueba 2.0");
+         System.out.println("nueva prueba 3.0");
     }
     
 }

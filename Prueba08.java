@@ -17,9 +17,15 @@ public class Prueba08 {
     public static void main(String[] args) {
         System.out.println("nueva prueba"); 
         
-         System.out.println("nueva");
+        
          System.out.println("nueva prueba 3.0");
+<<<<<<< HEAD
           System.out.println("nueva prueba 4.0");
+=======
+          System.out.println("nueva prueba final");
+          System.out.println("nueva prueba final 2.0");
+          System.out.println("nueva prueba final 3.0");
+>>>>>>> v1.1.0
     }
     
 }
